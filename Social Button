@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<title>Social Button</title>
+<body>
+<a href="https://www.facebook.com/yds.thienqc">
+    <img alt="facebook" src="https://img.icons8.com/ios/32/000000/facebook-new.png">
+</a>
+<a href="https://www.instagram.com/thienqc/">
+    <img alt="instagram" src="https://img.icons8.com/ios/32/000000/instagram-new.png">
+</a>
+</body>
+</html>
